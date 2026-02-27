@@ -134,8 +134,8 @@ This project successfully automates resume screening by:
 
 ---
 
-## Demo Video
-
+## Demo Video link
+https://youtu.be/hi-JifMKSoE
 
 
 ---
@@ -151,3 +151,4 @@ Reva University
 ## License
 
 This project is created for educational purposes.
+
